@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\YenidenC#\ADO.NET\08.05.2021\NorthWind\NorthWind.ORM\obj\Debug\netstandard1.6\NorthWind.ORM.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\08.05.2021\NorthWind\NorthWind.ORM\obj\Debug\netstandard1.6\NorthWind.ORM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\08.05.2021\NorthWind\NorthWind.ORM\obj\Debug\netstandard1.6\NorthWind.ORM.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\YenidenC#\ADO.NET\08.05.2021\NorthWind\NorthWind.ORM\obj\Debug\netstandard1.6\NorthWind.ORM.AssemblyInfo.cs
